@@ -1,0 +1,2 @@
+
+Valores lidos e somados: 10 |-| Soma: 2441406
